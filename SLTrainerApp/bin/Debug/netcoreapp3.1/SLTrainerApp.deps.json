@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SLTrainerApp/1.0.0": {
+        "dependencies": {
+          "SLTU": "1.0.0"
+        },
+        "runtime": {
+          "SLTrainerApp.dll": {}
+        }
+      },
+      "SLTU/1.0.0": {
+        "runtime": {
+          "SLTU.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SLTrainerApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SLTU/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

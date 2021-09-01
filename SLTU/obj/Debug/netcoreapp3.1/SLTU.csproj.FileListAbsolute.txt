@@ -1,0 +1,16 @@
+D:\Dragan\Programs\SLTrainerApp\SLTU\bin\Debug\netcoreapp3.1\SLTU.exe
+D:\Dragan\Programs\SLTrainerApp\SLTU\bin\Debug\netcoreapp3.1\SLTU.deps.json
+D:\Dragan\Programs\SLTrainerApp\SLTU\bin\Debug\netcoreapp3.1\SLTU.runtimeconfig.json
+D:\Dragan\Programs\SLTrainerApp\SLTU\bin\Debug\netcoreapp3.1\SLTU.runtimeconfig.dev.json
+D:\Dragan\Programs\SLTrainerApp\SLTU\bin\Debug\netcoreapp3.1\SLTU.dll
+D:\Dragan\Programs\SLTrainerApp\SLTU\bin\Debug\netcoreapp3.1\SLTU.pdb
+D:\Dragan\Programs\SLTrainerApp\SLTU\obj\Debug\netcoreapp3.1\SLTU.csproj.AssemblyReference.cache
+D:\Dragan\Programs\SLTrainerApp\SLTU\obj\Debug\netcoreapp3.1\SLTU.SLUpdater.resources
+D:\Dragan\Programs\SLTrainerApp\SLTU\obj\Debug\netcoreapp3.1\SLTU.csproj.GenerateResource.cache
+D:\Dragan\Programs\SLTrainerApp\SLTU\obj\Debug\netcoreapp3.1\SLTU.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dragan\Programs\SLTrainerApp\SLTU\obj\Debug\netcoreapp3.1\SLTU.AssemblyInfoInputs.cache
+D:\Dragan\Programs\SLTrainerApp\SLTU\obj\Debug\netcoreapp3.1\SLTU.AssemblyInfo.cs
+D:\Dragan\Programs\SLTrainerApp\SLTU\obj\Debug\netcoreapp3.1\SLTU.csproj.CoreCompileInputs.cache
+D:\Dragan\Programs\SLTrainerApp\SLTU\obj\Debug\netcoreapp3.1\SLTU.dll
+D:\Dragan\Programs\SLTrainerApp\SLTU\obj\Debug\netcoreapp3.1\SLTU.pdb
+D:\Dragan\Programs\SLTrainerApp\SLTU\obj\Debug\netcoreapp3.1\SLTU.genruntimeconfig.cache
