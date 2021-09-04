@@ -33,6 +33,7 @@ namespace SLTU
             this.Logger = new System.Windows.Forms.TextBox();
             this.SLULabel = new System.Windows.Forms.Label();
             this.PleaseWaitLabel = new System.Windows.Forms.Label();
+            this.StartDownload = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // progressBar1
@@ -49,12 +50,13 @@ namespace SLTU
             this.Logger.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Logger.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Logger.Enabled = false;
             this.Logger.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Logger.Location = new System.Drawing.Point(12, 137);
             this.Logger.Multiline = true;
             this.Logger.Name = "Logger";
             this.Logger.ReadOnly = true;
+            this.Logger.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.Logger.ScrollBars = System.Windows.Forms.ScrollBars.Both;
             this.Logger.Size = new System.Drawing.Size(460, 132);
             this.Logger.TabIndex = 1;
             // 
@@ -80,12 +82,23 @@ namespace SLTU
             this.PleaseWaitLabel.Text = "Please Wait..";
             this.PleaseWaitLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // StartDownload
+            // 
+            this.StartDownload.Location = new System.Drawing.Point(12, 66);
+            this.StartDownload.Name = "StartDownload";
+            this.StartDownload.Size = new System.Drawing.Size(460, 23);
+            this.StartDownload.TabIndex = 4;
+            this.StartDownload.Text = "Start Download";
+            this.StartDownload.UseVisualStyleBackColor = true;
+            this.StartDownload.Click += new System.EventHandler(this.StartDownload_Click);
+            // 
             // SLUpdater
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(484, 281);
+            this.Controls.Add(this.StartDownload);
             this.Controls.Add(this.PleaseWaitLabel);
             this.Controls.Add(this.SLULabel);
             this.Controls.Add(this.Logger);
@@ -106,6 +119,7 @@ namespace SLTU
         private System.Windows.Forms.TextBox Logger;
         private System.Windows.Forms.Label SLULabel;
         private System.Windows.Forms.Label PleaseWaitLabel;
+        private System.Windows.Forms.Button StartDownload;
     }
 }
 

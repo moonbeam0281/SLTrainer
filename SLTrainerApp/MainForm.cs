@@ -28,6 +28,7 @@ namespace SLTrainerApp
             currentBoxFocus = 0;
             numberOfMatch.Focus();
             Process.Start($"{Funks.getExePath()}/SLTU.exe");
+            VersionLabel.Text = $"{File.ReadAllText($"{Funks.getExePath()}/DataBase/Version.txt")}";
             isInPractice = false;
             ticketInput.boxesIsRunning(isInPractice, SumOfTicket, CompareTickets);
         }

@@ -22,3 +22,4 @@ D:\Dragan\Programs\SLTrainerApp\SLTrainerApp\bin\Debug\netcoreapp3.1\SLTU.exe
 D:\Dragan\Programs\SLTrainerApp\SLTrainerApp\bin\Debug\netcoreapp3.1\SLTU.dll
 D:\Dragan\Programs\SLTrainerApp\SLTrainerApp\bin\Debug\netcoreapp3.1\SLTU.pdb
 D:\Dragan\Programs\SLTrainerApp\SLTrainerApp\obj\Debug\netcoreapp3.1\SLTrainerApp.csproj.CopyComplete
+D:\Dragan\Programs\SLTrainerApp\SLTrainerApp\bin\Debug\netcoreapp3.1\DataBase\Version.txt

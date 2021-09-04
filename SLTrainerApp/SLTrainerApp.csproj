@@ -8,6 +8,13 @@
 
   <ItemGroup>
     <None Remove="DataBase\Hashes.txt" />
+    <None Remove="DataBase\Version.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="DataBase\Version.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>
